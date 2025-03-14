@@ -9,9 +9,11 @@ As a user I would like to get notified every weekday morning to see if street cl
 
 ### Technologies Used
 
-Front End: Angular, Tailwind (Hosted on Azure)
+Deployment Tool: Azure
 
-Back End: .Net (C#), Cosmos Db (Hosted on Azure)
+Front End: Angular(TypeScript), Tailwind CSS
+
+Back End: .Net (C#), Cosmos Db (No SQL)
 
 ### Goals
 Have a page where users can add and remove email/ phone info. Notify users every morning via text or email about NYC street cleaning rules for the day. Get this info from Twitter API, and use the NYC Street cleaning account to supply the info for the day. Store the data from Twitter API call in Db, and wipe every week.
