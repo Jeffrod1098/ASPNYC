@@ -1,4 +1,4 @@
-"### ASPNYC" 
+### ASPNYC 
 ### Project Description
 This is a notifier web app, every morning it will email/text you the latest alternate side parking rules for the day in NYC. You can create an account and choose how and when you would like to be notified. I decided to create this app so that there is a seamless way to get informed on the street cleaning days, no longer have to go on a website or call 311 to find this info out, you will be notified every morning.
 
