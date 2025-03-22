@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASPNYC.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d2c7d68178447df9dbe38f035bbac94defdc7a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8f3d5788f2dfc86b4d127ae06824e8e565d7584")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASPNYC.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASPNYC.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
